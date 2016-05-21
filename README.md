@@ -1,2 +1,6 @@
 # hello-world
-Learning pieces
+Hello 
+
+I am fiona
+
+This is my learing works of Github
